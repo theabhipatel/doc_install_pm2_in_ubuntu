@@ -10,7 +10,7 @@ sudo apt update
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
-We will use nvm to install Node.js because nvm can install multiple versions of Node.js and allow you to switch between them.
+We will use nvm to install Node.js because nvm can install multiple versions of Node.js and allow you to switch between them.  
 2. Load nvm by typing the following at the command line.
   ```
   source ~/.bashrc
